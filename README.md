@@ -1,1 +1,1 @@
-# simple client socket / send and receive data to an html to text converter server
+simple client socket to send to and receive data from an "html to text" converter server
